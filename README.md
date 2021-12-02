@@ -2,7 +2,7 @@
 
 Gantt Chart is project management system that can help project manager deliver timeline and job each entities.
 
-- Made with [Laravel](https://laravel.com/docs/).
+- Made by [Laravel](https://laravel.com/docs/).
 
 ## How to install
 
